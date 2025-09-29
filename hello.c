@@ -1,10 +1,8 @@
 #include <stdio.h>
-#include <conio.h>
+
 int main() { //calsitirabilir codun yazildigi kisim
     printf("Merhaba Dünya!\n");
-    printf("C language dersine basladim")
-
-getch();
+    printf("C language dersine \tbasladim\n"); // buradaki t tab bosluk birakir
 
     return 0;
 
